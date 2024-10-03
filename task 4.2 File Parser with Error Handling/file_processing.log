@@ -1,0 +1,65 @@
+2024-10-03 08:24:24,824 ERROR: File not found: & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/Desktop/3A/task/task 4.2 File Parser with Error Handling/4.2 File Parser .py"
+2024-10-03 08:25:11,058 INFO: Received file path: C:\Users\Admin\Desktop\Salary_Data.csv
+2024-10-03 08:25:11,074 INFO: File exists, processing...
+2024-10-03 08:25:11,074 INFO: CSV Headers: ['Name', 'Age', 'Salary']
+2024-10-03 08:25:11,074 INFO: Processing CSV content:
+2024-10-03 08:25:11,074 INFO: ['Malar', '21', '39343']
+2024-10-03 08:25:11,074 INFO: ['Kalai', '22', '46205']
+2024-10-03 08:25:11,074 INFO: ['Hema', '22', '37731']
+2024-10-03 08:25:11,074 INFO: ['Varsha', '22', '43525']
+2024-10-03 08:25:11,074 INFO: ['Geetha', '22', '39891']
+2024-10-03 08:25:11,074 INFO: ['Jai', '23', '56642']
+2024-10-03 08:25:11,074 INFO: ['Palani', '23', '60150']
+2024-10-03 08:25:11,090 INFO: ['Velu', '23', '54445']
+2024-10-03 08:25:11,090 INFO: ['Ranjitha', '23', '64445']
+2024-10-03 08:25:11,090 INFO: Sums of numeric values per row: [39364.0, 46227.0, 37753.0, 43547.0, 39913.0, 56665.0, 60173.0, 54468.0, 64468.0]
+2024-10-03 08:26:13,082 INFO: Received file path: C:\Users\Admin\Desktop\Salary_Data.csv
+2024-10-03 08:26:13,084 INFO: File exists, processing...
+2024-10-03 08:26:13,088 INFO: CSV Headers: ['Name', 'Age', 'Salary']
+2024-10-03 08:26:13,089 INFO: Processing CSV content:
+2024-10-03 08:26:13,090 INFO: ['Malar', '21', '39343']
+2024-10-03 08:26:13,091 INFO: ['Kalai', '22', '46205']
+2024-10-03 08:26:13,092 INFO: ['Hema', '22', '37731']
+2024-10-03 08:26:13,093 INFO: ['Varsha', '22', '43525']
+2024-10-03 08:26:13,094 INFO: ['Geetha', '22', '39891']
+2024-10-03 08:26:13,095 INFO: ['Jai', '23', '56642']
+2024-10-03 08:26:13,096 INFO: ['Palani', '23', '60150']
+2024-10-03 08:26:13,096 INFO: ['Velu', '23', '54445']
+2024-10-03 08:26:13,097 INFO: ['Ranjitha', '23', '64445']
+2024-10-03 08:26:13,098 INFO: Sums of numeric values per row: [39364.0, 46227.0, 37753.0, 43547.0, 39913.0, 56665.0, 60173.0, 54468.0, 64468.0]
+2024-10-03 08:28:04,260 INFO: Received file path: C:\Users\Admin\Downloads\sample1.json
+2024-10-03 08:28:04,260 INFO: File exists, processing...
+2024-10-03 08:28:04,276 INFO: Processing JSON content:
+2024-10-03 08:28:04,276 INFO: {
+    "fear": "quiet",
+    "chest": -1477429467,
+    "how": false,
+    "graph": false,
+    "camp": 929234312,
+    "plural": "settle"
+}
+2024-10-03 08:29:07,285 INFO: Received file path: C:\Users\Admin\Downloads\sample1.xml
+2024-10-03 08:29:07,285 INFO: File exists, processing...
+2024-10-03 08:29:07,302 INFO: Processing XML content:
+2024-10-03 08:29:07,306 INFO: Tag: root, Attributes: {}
+2024-10-03 08:29:07,310 INFO:   Tag: person, Attributes: {}
+2024-10-03 08:29:07,318 INFO:     Tag: name, Attributes: {}
+2024-10-03 08:29:07,320 INFO:     Text: John Doe
+2024-10-03 08:29:07,326 INFO:     Tag: age, Attributes: {}
+2024-10-03 08:29:07,332 INFO:     Text: 30
+2024-10-03 08:29:07,336 INFO:     Tag: email, Attributes: {}
+2024-10-03 08:29:07,338 INFO:     Text: john.doe@example.com
+2024-10-03 08:29:07,342 INFO:   Tag: person, Attributes: {}
+2024-10-03 08:29:07,367 INFO:     Tag: name, Attributes: {}
+2024-10-03 08:29:07,393 INFO:     Text: Jane Smith
+2024-10-03 08:29:07,404 INFO:     Tag: age, Attributes: {}
+2024-10-03 08:29:07,407 INFO:     Text: 25
+2024-10-03 08:29:07,411 INFO:     Tag: email, Attributes: {}
+2024-10-03 08:29:07,421 INFO:     Text: jane.smith@example.com
+2024-10-03 08:29:07,425 INFO:   Tag: book, Attributes: {}
+2024-10-03 08:29:07,433 INFO:     Tag: title, Attributes: {}
+2024-10-03 08:29:07,436 INFO:     Text: The Adventure Begins
+2024-10-03 08:29:07,439 INFO:     Tag: author, Attributes: {}
+2024-10-03 08:29:07,442 INFO:     Text: Robert Johnson
+2024-10-03 08:29:07,447 INFO:     Tag: year, Attributes: {}
+2024-10-03 08:29:07,471 INFO:     Text: 2022
