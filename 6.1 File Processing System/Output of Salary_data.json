@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Kalai",
+        "Age": 22,
+        "Salary": 46205
+    },
+    {
+        "Name": "Hema",
+        "Age": 22,
+        "Salary": 37731
+    },
+    {
+        "Name": "Varsha",
+        "Age": 22,
+        "Salary": 43525
+    },
+    {
+        "Name": "Geetha",
+        "Age": 22,
+        "Salary": 39891
+    },
+    {
+        "Name": "Jai",
+        "Age": 23,
+        "Salary": 56642
+    },
+    {
+        "Name": "Palani",
+        "Age": 23,
+        "Salary": 60150
+    },
+    {
+        "Name": "Velu",
+        "Age": 23,
+        "Salary": 54445
+    },
+    {
+        "Name": "Ranjitha",
+        "Age": 23,
+        "Salary": 64445
+    }
+]
