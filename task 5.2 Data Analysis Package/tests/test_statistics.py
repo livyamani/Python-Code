@@ -1,13 +1,13 @@
 import pandas as pd
-from data_analysis_package.statistics import correlation, t_test
+from data_analysis_package.statistics import calculate_correlation, perform_ttest  # Update import names
 
-def test_correlation():
+def test_calculate_correlation():
     df = pd.DataFrame({'X': [1, 3, 5], 'Y': [2, 4, 6]})
-    result = correlation(df, 'X', 'Y')
+    result = calculate_correlation(df, 'X', 'Y')  # Use calculate_correlation
     assert round(result, 2) == 1.0, f"Expected correlation of 1.0, got {result}"
 
-def test_t_test():
+def test_perform_ttest():
     group1 = [2, 4, 6]
     group2 = [1, 2, 3]
-    _, p_value = t_test(group1, group2)
+    t_stat, p_value = perform_ttest(group1, group2)  # Keep this the same
     assert p_value > 0.05, "Expected p-value > 0.05 indicating no significant difference"

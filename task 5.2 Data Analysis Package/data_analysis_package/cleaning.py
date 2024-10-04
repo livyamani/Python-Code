@@ -12,3 +12,7 @@ def handle_missing_data(df, strategy="mean"):
         return df.dropna()
     else:
         raise ValueError("Unsupported strategy!")
+
+
+def drop_duplicates(df):
+    return df.drop_duplicates()
