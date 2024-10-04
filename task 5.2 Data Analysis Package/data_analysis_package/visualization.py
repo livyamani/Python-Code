@@ -9,7 +9,7 @@ def generate_histogram(data, column, bins=10):
     plt.ylabel('Frequency')
     
     fig = plt.gcf()
-    plt.close()  # Close the plot to free up memory
+    plt.close()  
     return fig
 
 def generate_scatter_plot(data, x_column, y_column):
@@ -20,5 +20,5 @@ def generate_scatter_plot(data, x_column, y_column):
     plt.ylabel(y_column)
     
     fig = plt.gcf()
-    plt.close()  # Close the plot to free up memory
+    plt.close()  
     return fig 
