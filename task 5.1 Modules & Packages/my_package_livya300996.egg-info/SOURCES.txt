@@ -1,0 +1,14 @@
+README.md
+setup.py
+my_package/__init__.py
+my_package/file_utils.py
+my_package/math_utils.py
+my_package/string_utils.py
+my_package_livya300996.egg-info/PKG-INFO
+my_package_livya300996.egg-info/SOURCES.txt
+my_package_livya300996.egg-info/dependency_links.txt
+my_package_livya300996.egg-info/top_level.txt
+tests/test_file_utils.py
+tests/test_math_utils.py
+tests/test_script.py
+tests/test_string_utils.py
